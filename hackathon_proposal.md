@@ -1,7 +1,7 @@
 # KMS Planning 해커톤 발표 기획서
 ## Kaia 블록체인 기반 머니 스트리밍 DApp
 
-> **Korea Stablecoin Hackathon 2024**  
+> **Korea Stablecoin Hackathon 2025**  
 > 실시간 결제 혁신을 통한 블록체인 생태계 확산
 
 ---
