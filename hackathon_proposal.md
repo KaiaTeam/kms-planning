@@ -1,7 +1,7 @@
 # KMS Planning 해커톤 발표 기획서
 ## Kaia 블록체인 기반 머니 스트리밍 DApp
 
-> **Korea Stablecoin Hackathon 2024**  
+> **Korea Stablecoin Hackathon 2025**  
 > 실시간 결제 혁신을 통한 블록체인 생태계 확산
 
 ---
@@ -205,7 +205,7 @@
 ### 3단계: 라이브 데모 (6분)
 
 **3-1. 지갑 연결 (30초)**
-- Kaikas 지갑 연결하는 모습
+- Kaia wallet 지갑 연결하는 모습
 - 복잡한 가입 절차 없이 바로 사용 가능함을 보여줌
 
 **3-2. 마이페이지 둘러보기 (1분)**  
